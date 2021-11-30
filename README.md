@@ -6,6 +6,8 @@
 El material de estudio (trabajos practicos, diapositivas,informes, libros) son una fuente de conocimiento que sin importar cuánto tiempo transcurra, siempre serán de gran utilidad para todos nosotros.
 Por ello, en este repositorio me he encargado de recopilar informacion necesaria sobre tecnologías o áreas de interés para alivianar las cursadas y mejorar las habilidades universitarias y laborales.
 
+En los inicios, existió este github[untref] dedicado a un sistema de control de materias y branding útiles.
+
 ### 📝 Tendrás a disposición libros sobre:
 
 - Cátedras de Ingeniería en Computación UNTREF
@@ -39,3 +41,4 @@ Hay muchas formas de apoyar este proyecto (compartiéndolo con tus amigos, hacie
 <!-- Enlaces -->
 [lk]: https://www.linkedin.com/in/cintia-tatiana-capece-1430171b1/
 [paypal]: https://paypal.me/cintiacapece/
+[untref]: https://github.com/untrefcomputacion
